@@ -3,3 +3,4 @@ We have set some limits (you can change them) on the light curve, normalized flu
 Both the light curves that we have preserved and the excluded ones are saved in different pdf files.
 Also, before I run the script for thousands TIC IDs, I run a "warmup script". I noticed that the script for many TIC IDs runs faster if you first run the "warmup script". 
 Possibly a bug, but not figured it out yet.
+The produced PDFs are too large to be uploaded on github so I can not show them here. The outcome will be the same as the "warmup pdf" but with thousands of plotted TIC ID light curves.
